@@ -1,0 +1,1007 @@
+ROI.name	SubCellTypes	CellTypes	TissueSubTypes	TissueTypes	Zones	Sections	Atlas	ROI.id	point	x	y
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	1	110.29407	248.63336
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	2	104.82634	249.48206
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	3	101.10217	253.20851
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	4	97.377993	256.93497
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	5	98.203543	260.06105
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	6	99.115813	263.24072
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	7	101.13527	263.53494
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	8	103.068	263.77557
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	9	109.32795	263.55284
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	10	121.10884	263.14956
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	11	126.98411	262.92676
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	12	127.33844	262.88456
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	13	128.58249	259.31787
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	14	129.73753	255.56061
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	15	125.97733	249.20667
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	16	116.0661	247.82165
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	29	17	110.29407	248.6334
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	1	89.825303	257.24194
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	2	83.515303	257.51286
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	3	80.126413	262.34741
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	4	76.760323	267.15125
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	5	75.590173	272.9036
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	6	74.420023	278.71166
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	7	79.918353	279.17968
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	8	98.653403	263.46712
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	9	98.846823	263.28187
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	10	98.023313	260.15189
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	11	11	97.199543	257.00018
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	1	89.625213	271.33155
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	2	80.145513	279.30864
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	3	80.243713	281.2615
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	4	80.531523	283.11599
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	5	83.780663	282.83415
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	6	86.983413	282.50592
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	7	92.863593	278.41482
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	8	98.743783	274.32373
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	9	100.76427	272.06319
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	10	102.95476	269.61609
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	11	102.96936	266.76594
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	12	102.76489	264.02287
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	13	99.200693	263.49923
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	14	14	89.625183	271.33155
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	1	113.97945	263.56145
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	2	103.03165	263.98514
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	3	103.31775	269.37899
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	4	106.19798	269.4828
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	5	116.41387	269.98713
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	6	123.76062	270.39869
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	7	128.09233	272.77542
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	8	132.42404	275.15215
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	9	135.91727	273.18153
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	10	139.4325	271.19483
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	11	133.43274	267.1651
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	12	127.41098	263.15145
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	13	126.15094	263.16265
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	35	14	113.97945	263.56149
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	1	109.36489	272.02958
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	2	109.85513	274.32373
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	3	113.63443	275.59221
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	4	117.41373	276.8607
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	5	118.91168	276.9213
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	6	120.40964	276.9819
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	7	121.92122	273.95744
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	8	123.48799	270.75593
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	9	116.91376	270.20746
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	10	109.5795	269.78577
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	44	11	108.87466	269.73547
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	1	122.21118	273.82867
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	2	120.67412	276.99659
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	3	121.95654	278.20214
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	4	123.51115	279.60578
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	5	127.7714	280.57709
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	6	131.75945	281.29552
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	7	133.36791	280.47122
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	8	135.0931	279.53902
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	9	133.80908	277.43013
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	10	132.30125	275.34375
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	54	11	123.8308	270.71556
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	1	115.3574	280.65207
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	2	113.21412	284.236
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	3	113.70683	286.26767
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	4	114.19954	288.29934
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	5	117.45354	289.55138
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	6	120.80741	290.69282
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	7	122.22836	288.86546
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	8	123.54943	287.1487
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	9	123.59583	283.56189
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	10	123.64213	279.97508
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	11	122.0672	278.58397
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	12	120.49227	277.19287
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	13	119.60508	277.13837
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	14	118.10928	277.07597
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	15	117.50067	277.06797
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	47	16	115.3574	280.6519
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	1	108.10707	276.45576
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	2	106.39062	278.37664
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	3	106.55513	280.74013
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	4	106.71964	283.10362
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	5	109.84962	283.59611
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	6	113.05239	284.0196
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	7	115.20383	280.4848
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	8	117.28246	277.01899
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	9	113.69645	275.82286
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	40	10	109.96699	274.58081
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	1	101.80732	271.20882
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	2	99.646803	273.63812
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	3	98.920853	274.45583
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	4	99.804353	276.86768
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	5	100.74765	279.33981
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	6	103.52205	278.81814
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	7	106.23664	278.2362
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	8	107.93445	276.32931
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	9	109.63003	274.28613
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	10	108.65063	269.7919
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	11	103.76355	269.59469
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	33	12	103.24189	269.59769
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	1	93.025993	278.55215
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	2	87.306533	282.5722
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	3	87.755033	284.19786
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	4	88.518693	285.69727
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	5	90.605613	285.53542
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	6	92.488953	285.38968
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	7	95.689043	284.54601
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	8	98.889143	283.70233
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	9	99.726043	281.61418
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	10	100.56293	279.52602
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	11	99.675213	277.10263
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	19	12	98.710683	274.66076
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	1	103.50272	279.02221
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	2	100.86389	279.59913
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	3	99.926083	281.67048
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	4	99.105723	283.71366
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	5	99.434933	284.00265
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	6	101.19871	285.44875
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	7	102.63328	286.60585
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	8	104.56778	286.66965
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	9	106.50228	286.73345
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	10	106.50428	284.7888
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	11	106.11746	278.46343
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	32	12	103.5031	279.02213
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	1	95.699713	284.74146
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	2	92.678423	285.61627
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	3	93.479163	288.18832
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	4	94.280103	290.68358
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	5	96.630873	291.94316
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	6	98.981643	293.20274
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	7	101.02098	292.21511
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	8	103.08655	291.20126
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	9	102.79736	289.00933
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	10	102.25331	286.61143
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	23	11	98.852733	283.93723
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	1	102.70393	287.10781
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	2	103.03543	289.32916
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	3	103.31414	291.22519
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	4	104.65325	292.46869
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	5	106.05842	293.73617
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	6	106.92017	292.07719
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	7	107.71586	290.39423
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	8	107.14634	288.68803
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	9	106.43087	286.94139
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	10	104.46803	286.84179
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	34	11	102.65114	286.78259
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	1	106.76311	285.129
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	2	106.76311	286.93559
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	3	107.32587	288.61887
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	4	107.91812	290.33164
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	5	109.7383	291.09288
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	6	111.52897	291.82463
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	7	112.77008	290.08394
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	8	114.01119	288.34325
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	9	113.5175	286.34037
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	10	112.99684	284.31053
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	11	106.83647	283.32241
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	41	12	106.76307	285.129
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	1	107.11238	292.14888
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	2	106.2462	294.03854
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	3	105.84736	296.50213
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	4	105.54174	298.68345
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	5	106.39152	299.50474
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	6	108.02945	301.08374
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	7	108.81761	301.84144
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	8	110.36884	299.29833
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	9	111.94873	296.70022
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	10	111.40431	292.02335
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	11	110.02163	291.42611
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	12	108.30046	290.71942
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	39	13	107.88534	290.54148
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	1	112.88766	290.27289
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	2	111.66545	291.99893
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	3	111.91377	294.29002
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	4	112.22307	296.63384
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	5	115.39194	297.74846
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	6	118.67862	298.7536
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	7	120.26569	298.10264
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	8	121.67397	297.50843
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	9	121.72997	296.65364
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	10	121.80387	294.92941
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	11	121.82177	294.05997
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	12	121.25596	292.55368
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	13	120.65949	291.01673
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	14	114.18915	288.54295
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	45	15	112.88773	290.27289
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	1	123.78926	283.56151
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	2	123.83236	287.07152
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	3	125.59746	287.18852
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	4	127.28646	287.25152
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	5	128.74911	286.75778
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	6	130.21177	286.26404
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	7	130.94802	283.90205
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	8	131.54795	281.47651
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	9	123.95047	280.10548
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	60	10	123.78922	283.5615
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	1	122.30431	289.09531
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	2	120.93495	290.99733
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	3	122.04947	294.03108
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	4	124.9213	294.32649
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	5	127.79989	294.45708
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	6	127.92465	293.59653
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	7	127.61897	290.19097
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	8	127.20297	287.48104
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	9	125.41255	287.36576
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	55	10	123.67368	287.30866
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	1	128.85972	286.92968
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	2	127.47669	287.44578
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	3	128.18172	292.76973
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	4	130.54224	292.96423
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	5	133.26296	293.18825
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	6	133.63619	293.23175
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	7	133.59209	292.95033
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	8	133.49319	291.31826
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	9	133.43829	289.96761
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	10	131.86781	288.23176
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	11	130.24589	286.47892
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	65	12	128.85971	286.92973
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	1	128.08827	293.90782
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	2	128.11557	298.10286
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	3	131.15927	298.80161
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	4	134.18956	299.47542
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	5	135.14195	298.11937
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	6	136.03065	296.66552
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	7	134.81118	294.98446
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	8	133.63881	293.42614
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	9	133.13384	293.37234
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	10	128.23047	292.97317
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	67	11	128.08825	293.90782
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	1	137.80204	288.47607
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	2	133.64471	289.97963
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	3	133.70901	291.62995
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	4	133.80081	293.26027
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	5	135.06317	294.94254
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	6	136.32552	296.62481
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	7	136.69423	296.62381
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	8	143.25513	296.4175
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	9	142.31918	288.76445
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	10	141.95409	287.01307
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	71	11	137.80196	288.47632
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	1	133.67942	280.54012
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	2	131.96084	281.47779
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	3	131.14959	283.92489
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	4	130.41217	286.29814
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	5	131.43359	287.42983
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	6	132.97666	289.15245
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	7	133.58129	289.74982
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	8	141.73877	286.80918
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	68	9	135.38014	279.69527
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	1	139.36703	296.72687
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	2	136.36642	296.8329
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	3	135.29058	298.27031
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	4	134.30273	299.6763
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	5	134.22143	301.51963
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	6	134.14013	303.36295
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	7	134.79097	305.05836
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	8	135.44181	306.75376
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	9	138.16522	306.72446
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	10	140.91655	306.66756
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	11	142.06662	301.82801
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	12	143.23584	296.82044
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	13	142.78131	296.63854
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	72	14	139.36711	296.72684
+NA	NA	NA	NA	NA	NA	NA	NA	1	1	127.98761	298.46353
+NA	NA	NA	NA	NA	NA	NA	NA	1	2	127.55168	299.48721
+NA	NA	NA	NA	NA	NA	NA	NA	1	3	127.1949	300.37494
+NA	NA	NA	NA	NA	NA	NA	NA	1	4	128.66102	303.94757
+NA	NA	NA	NA	NA	NA	NA	NA	1	5	131.34849	303.64327
+NA	NA	NA	NA	NA	NA	NA	NA	1	6	133.97637	303.27601
+NA	NA	NA	NA	NA	NA	NA	NA	1	7	133.98537	302.62393
+NA	NA	NA	NA	NA	NA	NA	NA	1	8	134.05067	300.82963
+NA	NA	NA	NA	NA	NA	NA	NA	1	9	134.10687	299.68741
+NA	NA	NA	NA	NA	NA	NA	NA	1	10	131.19425	299.01284
+NA	NA	NA	NA	NA	NA	NA	NA	1	11	128.17416	298.29867
+NA	NA	NA	NA	NA	NA	NA	NA	1	12	127.98754	298.46353
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	1	122.0336	294.60337
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	2	121.93344	296.23356
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	3	121.88014	297.53772
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	4	122.8924	299.01577
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	5	124.00651	300.59845
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	6	125.52916	300.49629
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	7	126.98202	300.25744
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	8	127.45225	299.1892
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	9	127.89041	298.15302
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	10	127.87901	297.10635
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	11	127.81381	295.40816
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	12	127.76001	294.75665
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	13	125.10823	294.52315
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	14	122.26846	294.28349
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	56	15	122.03357	294.60337
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	1	125.5519	300.68255
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	2	124.10476	300.90511
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	3	123.94269	303.53684
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	4	123.78136	306.50836
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	5	123.76066	306.87157
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	6	125.38782	308.09393
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	7	127.01497	309.31628
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	8	127.10347	308.9914
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	9	127.83941	306.40836
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	10	128.48682	304.1502
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	11	127.74456	302.322
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	59	12	126.98992	300.48861
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	1	120.16385	298.36166
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	2	118.69795	299.00671
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	3	118.97546	301.72786
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	4	119.29569	304.40628
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	5	119.91147	305.97127
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	6	120.60027	307.68192
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	7	122.10273	307.35019
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	8	123.53217	306.87278
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	9	123.57957	306.42203
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	10	123.83603	300.77571
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	11	121.68184	297.7572
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	51	12	120.16382	298.36166
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	1	110.54768	299.4251
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	2	108.60423	302.43043
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	3	108.25052	302.91641
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	4	116.91322	307.4233
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	5	118.06367	305.98237
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	6	119.12381	304.51543
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	7	118.79486	301.76159
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	8	118.46591	299.00774
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	9	115.42522	297.96843
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	43	10	112.24392	296.90373
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	1	103.09202	300.21808
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	2	100.76994	301.53714
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	3	100.01556	303.4499
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	4	99.098163	305.78273
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	5	98.935123	306.2028
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	6	99.480053	306.154
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	7	102.52695	306.04999
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	8	105.02894	305.99479
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	9	106.57881	304.33111
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	10	108.41453	302.33769
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	11	108.70038	302.00796
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	12	107.57959	300.94493
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	13	105.93646	299.39048
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	31	14	105.4141	298.89905
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	1	101.15524	292.37521
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	2	99.098803	293.39274
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	3	98.549213	295.82862
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	4	98.178853	298.34999
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	5	99.449093	299.86041
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	6	100.67678	301.27614
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	7	105.25794	298.73276
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	8	105.68586	296.36218
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	9	106.01049	294.05997
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	10	105.27827	293.36065
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	30	11	103.19183	291.41224
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	1	95.465133	298.78615
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	2	93.252773	299.19002
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	3	92.422093	302.52351
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	4	91.591423	305.85699
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	5	93.591133	307.80131
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	6	95.694273	309.74948
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	7	97.258683	307.96568
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	8	98.719663	306.17804
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	9	99.611413	303.90754
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	10	100.50269	301.54362
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	20	11	97.805273	298.3954
+NA	NA	NA	NA	NA	NA	NA	NA	0	1	92.935873	292.84752
+NA	NA	NA	NA	NA	NA	NA	NA	0	2	91.634893	294.8837
+NA	NA	NA	NA	NA	NA	NA	NA	0	3	93.246203	298.95994
+NA	NA	NA	NA	NA	NA	NA	NA	0	4	95.572703	298.57861
+NA	NA	NA	NA	NA	NA	NA	NA	0	5	97.868793	298.16615
+NA	NA	NA	NA	NA	NA	NA	NA	0	6	98.360383	295.7729
+NA	NA	NA	NA	NA	NA	NA	NA	0	7	98.829863	293.36144
+NA	NA	NA	NA	NA	NA	NA	NA	0	8	96.522303	292.12106
+NA	NA	NA	NA	NA	NA	NA	NA	0	9	94.236843	290.89888
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	1	85.832393	295.15902
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	2	86.340213	300.16715
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	3	86.934703	304.83419
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	4	91.403783	305.74727
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	5	92.256973	302.40657
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	6	93.079243	299.10271
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	7	92.255263	297.04144
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	8	91.207043	294.93809
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	9	88.383123	294.83802
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	17	10	85.783423	294.78002
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	1	90.179873	285.75133
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	2	88.356913	285.96281
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	3	85.837743	294.59378
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	4	88.636463	294.67098
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	5	91.419783	294.73428
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	6	92.751703	292.73257
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	7	94.083613	290.73085
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	8	93.263423	288.17863
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	9	92.443233	285.62641
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	10	92.191213	285.61491
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	18	11	90.179873	285.75128
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	1	83.462173	283.04077
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	2	80.524923	283.36552
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	3	78.699763	306.13843
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	4	80.935263	307.42085
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	5	83.243503	308.44917
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	6	86.592153	304.73581
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	7	85.602963	294.87155
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	8	86.854323	290.27914
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	9	88.139683	285.83152
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	10	87.563543	284.27266
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	11	86.987403	282.71381
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	12	86.681103	282.72521
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	13	13	83.462173	283.04073
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	1	70.028333	282.06245
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	2	65.704733	285.43152
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	3	65.243723	291.96103
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	4	64.847113	298.20869
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	5	67.605223	304.82871
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	6	70.428183	311.52406
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	7	76.886483	311.22578
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	8	77.694833	308.82577
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	9	78.427673	306.49293
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	10	79.373143	294.87685
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	11	80.318613	283.26077
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	12	80.067583	281.36735
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	13	79.791813	279.45267
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	8	14	74.505943	278.97468
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	1	38.823742	252.46591
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	2	36.554128	252.82692
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	3	34.338935	257.04429
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	4	38.739718	260.11911
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	5	43.140498	263.10798
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	6	45.58654	266.18423
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	7	48.032583	269.26049
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	8	48.773873	272.82321
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	9	49.515153	276.38594
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	10	57.511723	280.67971
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	11	65.582553	284.97392
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	12	74.041363	278.85458
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	13	75.368273	273.01957
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	14	76.507693	267.22891
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	15	69.913463	260.75038
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	16	63.320253	254.41115
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	17	59.458473	253.69058
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	18	55.596693	252.97
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	19	48.988963	252.5405
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	3	20	41.729158	252.11879
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	1	74.083973	243.46364
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	2	69.072623	244.56273
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	3	66.286333	249.44296
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	4	63.523863	254.29697
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	5	64.124823	254.88849
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	6	70.676633	261.19586
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	7	76.627473	266.91172
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	8	76.811403	266.68105
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	9	80.180643	261.90737
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	10	83.365953	257.36436
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	11	81.349153	249.86913
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	7	12	79.201933	242.38233
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	1	74.400023	225.78736
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	2	75.050693	229.63462
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	3	76.739343	232.95448
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	4	78.427993	236.27434
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	5	78.980603	239.34485
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	6	81.539983	249.84062
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	7	83.569673	257.28573
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	8	90.374213	257.05105
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	9	97.155823	256.79653
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	10	100.88761	253.06863
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	11	104.6194	249.34072
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	12	100.81473	241.13925
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	13	97.010063	232.93778
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	14	94.072103	230.46023
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	15	91.134143	227.98269
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	16	85.798383	225.10458
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	17	80.462613	222.22648
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	18	77.332643	222.08097
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	19	73.976003	221.93778
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	10	20	73.749343	221.93978
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	28	1	102.93758	230.55406
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	28	2	97.500533	232.82693
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	28	3	97.236633	232.93848
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	28	4	100.99508	241.02426
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	28	5	104.78715	249.19609
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	28	6	115.66773	247.53967
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	28	7	118.0518	230.59149
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	28	8	108.12649	228.38334
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	1	117.1162	239.06763
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	2	116.01096	247.56236
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	3	121.03073	248.28524
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	4	125.98893	248.94655
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	5	130.81146	242.74651
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	6	135.68165	236.42223
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	7	134.06135	234.227
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	8	132.11989	232.08921
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	48	9	118.45697	230.63383
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	1	145.02899	221.67451
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	2	142.21393	222.95633
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	3	140.64606	227.46921
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	4	139.07818	231.9821
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	5	137.50813	234.24264
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	6	131.0883	242.73756
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	7	126.23852	249.07717
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	8	130.14846	255.62823
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	9	143.84965	258.78212
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	10	146.80614	250.89238
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	11	149.74394	243.02396
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	12	150.10296	239.87568
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	13	150.46197	236.7274
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	14	150.10939	233.21352
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	15	149.75682	229.69964
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	16	149.86739	226.52255
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	17	149.97796	223.34547
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	18	149.00985	221.86029
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	62	19	147.9429	220.3839
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	1	128.80403	259.30419
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	2	127.56551	262.8637
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	3	133.64317	267.04816
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	4	139.75828	271.12913
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	5	144.31824	276.87799
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	6	148.93674	282.62686
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	7	155.15548	281.12618
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	8	154.36867	274.04857
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	9	153.38347	266.87953
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	10	148.5396	262.87302
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	11	143.84464	259.00742
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	12	137.01955	257.4273
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	66	13	130.09979	255.84767
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	75	1	146.98191	250.97896
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	75	2	144.07019	258.92312
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	75	3	148.86887	262.87661
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	75	4	153.63227	266.80009
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	75	5	160.17156	263.53165
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	75	6	166.7347	260.24167
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	75	7	161.50751	248.31264
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	75	8	150.01675	243.10015
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	1	136.15011	273.28351
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	2	132.637	275.25978
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	3	134.01777	277.3713
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	4	136.62146	280.7141
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	5	139.94265	284.36923
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	6	142.11973	286.76369
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	7	142.45522	288.4648
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	8	142.79071	290.16591
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	9	143.14379	290.13291
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	10	149.6184	289.66933
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	11	149.26205	286.24026
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	12	148.76019	282.81118
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	13	144.35834	277.26331
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	14	139.77044	271.52605
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	70	15	139.58439	271.33667
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	1	146.08983	290.09494
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	2	142.89069	290.37692
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	3	143.15299	293.33216
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	4	143.471	296.4944
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	5	142.29411	301.77182
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	6	141.11533	306.78842
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	7	140.94665	309.42288
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	8	140.80521	312.08725
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	9	148.88443	311.74149
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	10	149.31733	301.52994
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	11	149.74645	290.60396
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	12	149.78905	289.8432
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	13	149.51212	289.855
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	74	14	146.08988	290.09495
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	1	152.1043	282.08588
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	2	148.96498	282.83491
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	3	149.4613	286.2785
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	4	149.96696	289.71278
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	5	149.53576	300.84159
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	6	149.10456	311.97039
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	7	148.11092	315.27313
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	8	147.13358	318.59218
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	9	154.09231	319.5664
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	10	158.07593	312.78452
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	11	162.03645	306.03453
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	12	162.17805	299.3517
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	13	162.36103	291.928
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	14	162.40243	291.18713
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	15	158.87808	286.32012
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	16	155.29401	281.39964
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	77	17	152.10431	282.08588
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	1	131.1082	303.8567
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	2	128.6697	304.28111
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	3	127.89463	306.9042
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	4	127.16791	309.44902
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	5	127.32058	310.84012
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	6	127.48924	312.24872
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	7	129.79875	311.85703
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	8	132.09228	311.44785
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	9	133.38165	309.62247
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	10	134.9773	307.3539
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	11	135.28358	306.91071
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	12	134.64152	305.22377
+PCC.d	PCC	Phloem	Vasculature	Stele	d	d	PCC_d	63	13	133.7489	303.52369
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	1	130.1982	311.97524
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	2	128.059	312.36254
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	3	127.48106	312.46004
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	4	126.84735	314.60618
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	5	126.17886	316.84651
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	6	127.55167	318.7158
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	7	129.45851	321.12034
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	8	129.95777	321.74979
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	9	132.36089	319.10067
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	10	134.76402	316.45155
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	11	133.44171	314.05883
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	12	131.93942	311.67578
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	61	13	130.1982	311.97526
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	1	137.14997	306.96571
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	2	135.48575	307.0791
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	3	133.84598	309.33101
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	4	132.4237	311.75921
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	5	134.98075	316.23829
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	6	140.51715	312.19602
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	7	140.71029	310.05517
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	8	140.88849	307.42758
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	9	140.93689	306.88418
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	10	139.82593	306.90048
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	69	11	137.14999	306.96568
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	1	144.45325	312.14863
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	2	141.44083	312.26629
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	3	140.77589	312.27429
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	4	137.83266	314.44322
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	5	134.88943	316.61215
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	6	132.45809	319.30434
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	7	130.02674	321.99654
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	8	126.8271	323.79977
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	9	123.50417	325.69852
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	10	122.98084	327.48557
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	11	122.5808	329.1771
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	12	124.21318	330.81117
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	13	125.90784	332.44525
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	14	136.42889	325.53002
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	15	146.88767	318.61479
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	16	147.86294	315.37933
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	17	148.84106	312.07867
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	57	18	144.45325	312.14827
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	1	123.80754	317.16044
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	2	122.18701	317.25604
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	3	119.71774	322.21657
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	4	123.33872	325.49016
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	5	126.59826	323.68818
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	6	129.68345	321.75368
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	7	127.76779	319.33889
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	8	125.68793	317.06971
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	52	9	123.80754	317.16041
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	1	122.08695	307.55037
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	2	120.67117	308.21732
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	3	120.50609	311.05641
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	4	120.34395	313.70712
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	5	121.25705	315.36012
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	6	122.19347	317.03819
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	7	125.95168	316.85076
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	8	126.63686	314.6135
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	9	127.29317	312.40511
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	10	127.13962	310.98989
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	11	126.98607	309.57466
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	12	125.30921	308.31637
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	53	13	123.56606	307.06493
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	1	115.45444	313.24365
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	2	114.2145	314.64883
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	3	113.79871	317.70027
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	4	113.44209	320.80212
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	5	119.43537	322.10024
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	6	120.7764	319.63323
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	7	122.00856	317.16711
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	8	121.09321	315.49739
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	9	120.17787	313.82768
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	10	118.88274	313.08842
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	11	117.141	312.09382
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	46	12	116.69439	311.83848
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	1	118.13343	306.23956
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	2	117.11425	307.66167
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	3	116.94521	309.64214
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	4	116.79071	311.63717
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	5	118.47286	312.60663
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	6	120.14047	313.56153
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	7	120.18977	313.02679
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	8	120.36887	310.25233
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	9	120.49865	308.0126
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	10	119.884	306.47027
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	11	119.21097	304.87269
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	49	12	118.13342	306.23956
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	1	106.84396	304.38291
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	2	105.39249	305.93812
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	3	105.01585	307.80741
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	4	104.93375	311.26708
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	5	105.0592	313.12111
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	6	113.93733	314.44674
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	7	115.24149	313.17114
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	8	116.47524	311.74913
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	9	116.71465	309.96151
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	10	116.89167	308.00377
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	11	116.93407	307.68879
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	12	113.21796	305.75146
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	13	108.79613	303.43477
+Metaxylem.d	Metaxylem	Xylem	Vasculature	Stele	d	d	Metaxylem_d	37	14	108.09041	303.05538
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	36	1	104.99025	313.39648
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	36	2	103.38135	318.82917
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	36	3	108.81345	322.59082
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	36	4	113.12785	320.81176
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	36	5	113.97945	314.80517
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	36	6	111.74065	314.33629
+Protoxylem.d	Protoxylem	Xylem	Vasculature	Stele	d	d	Protoxylem_d	36	7	107.25998	313.67656
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	1	101.15411	311.4525
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	2	97.603673	313.25334
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	3	97.071463	317.39247
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	4	103.15046	318.69584
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	5	104.00972	315.92471
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	6	104.84089	313.18436
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	7	104.75249	311.44817
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	8	104.6474	309.6953
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	27	9	101.1541	311.4525
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	1	100.9727	306.27673
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	2	98.869193	306.39489
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	3	95.977753	309.90258
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	4	96.637783	311.4922
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	5	97.462073	313.00082
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	6	104.60771	309.41987
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	7	104.82956	307.77455
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	8	104.98974	306.18863
+Procambium.d	Procambium	Procambium	Vasculature	Stele	d	d	Procambium_d	26	9	103.9854	306.20303
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	1	85.100923	306.81844
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	2	83.517193	308.70309
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	3	93.025993	317.54079
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	4	93.417243	317.91133
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	5	95.105843	317.65742
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	6	96.819633	317.3783
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	7	97.090533	315.30581
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	8	97.336223	313.25852
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	9	96.491693	311.65808
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	10	95.647153	310.05763
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	11	94.401783	308.86107
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	12	92.264213	306.82795
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	13	91.372013	305.9914
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	14	89.066043	305.49542
+PPP.d	PPP	PPP	Pericycle	Stele	d	d	PPP_d	16	15	86.760063	304.99944
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	1	78.550573	306.73203
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	2	77.818413	309.08489
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	3	77.123543	311.32908
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	4	84.645193	319.69204
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	5	92.277743	328.13243
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	6	94.424453	326.70857
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	7	96.619033	325.05713
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	8	95.010573	321.4746
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	9	93.243353	318.04222
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	10	88.264453	313.39785
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	11	83.285563	308.75347
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	12	81.011043	307.68841
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	12	13	78.662203	306.62335
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	1	95.156113	317.8287
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	2	93.591133	318.14455
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	3	96.985363	324.86537
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	4	107.97575	326.5135
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	5	108.41766	324.65196
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	6	108.73374	322.81454
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	7	105.94935	320.8766
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	8	103.16496	318.93866
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	9	100.03057	318.25846
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	25	10	96.808643	317.58846
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	1	111.1934	321.88943
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	2	108.99948	322.81529
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	3	108.27745	326.59069
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	4	115.19666	327.83447
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	5	122.24493	329.10396
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	6	122.75749	327.56043
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	7	123.16973	325.8401
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	8	119.42417	322.35423
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	9	116.3704	321.66188
+XPP.d	XPP	XPP	Pericycle	Stele	d	d	XPP_d	42	10	113.41047	321.01847
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	1	94.793203	326.69123
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	2	92.549023	328.37192
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	3	94.383063	330.98023
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	4	96.283483	333.55096
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	5	123.45781	336.38262
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	6	124.62288	334.49506
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	7	125.72877	332.67547
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	8	124.04915	330.99624
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	9	122.36952	329.31702
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	10	115.2836	328.0513
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	11	102.7637	325.96441
+Endodermis.d	Endodermis	Endodermis	Endodermis	Ground tissue	d	d	Endodermis_d	22	12	97.155823	325.10493
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	1	73.594063	311.62697
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	2	71.069333	311.74458
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	3	70.457383	311.75258
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	4	69.868293	316.21911
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	5	69.279203	320.68563
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	6	72.560213	326.58715
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	7	75.867263	332.52252
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	8	84.349483	335.09345
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	9	92.805653	337.63053
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	10	94.437343	335.67219
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	11	96.069033	333.66091
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	12	94.134533	330.99995
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	13	84.592783	319.94185
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	14	76.985543	311.49175
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	15	76.246183	311.50455
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	9	16	73.594063	311.62651
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	1	49.352343	276.81797
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	2	46.313823	282.20518
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	3	43.401203	287.39137
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	4	44.404204	294.8555
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	5	45.433388	302.35177
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	6	64.649593	298.16241
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	7	65.465283	285.4933
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	8	65.464753	285.18629
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	9	57.537713	280.92875
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	10	49.544433	276.64408
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	4	11	49.352283	276.81797
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	1	54.976983	300.4883
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	2	45.402059	302.59631
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	3	40.734282	305.97919
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	4	36.066509	309.36208
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	5	32.690597	313.84398
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	6	28.622921	319.71269
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	7	27.931157	321.09949
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	8	28.548468	322.62101
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	9	29.16578	324.14252
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	10	32.295757	324.87151
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	11	35.425733	325.6005
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	12	39.72945	325.27833
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	13	47.409163	324.66394
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	14	50.785153	324.37173
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	15	59.862523	322.52421
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	16	69.019493	320.62726
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	17	69.681483	316.14369
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	18	70.263863	311.70956
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	19	67.487083	305.06302
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	2	20	64.631103	298.39839
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	1	59.868963	322.71161
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	2	50.968763	324.56817
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	3	52.602933	331.91553
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	4	54.281063	339.21892
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	5	59.763003	343.603865
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	6	65.340363	347.846545
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	7	70.542443	340.20305
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	8	75.621423	332.57828
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	9	72.376843	326.67047
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	5	10	68.942563	320.8926
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	1	70.673233	340.36519
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	2	65.400073	348.255335
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	3	64.940853	352.225365
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	4	64.589853	355.877005
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	5	62.853233	359.843525
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	6	61.116613	363.810035
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	7	60.512113	368.145045
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	8	59.907603	372.480045
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	9	60.793173	374.198795
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	10	61.788893	375.917545
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	11	67.976563	374.498255
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	12	70.768383	372.171945
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	13	75.816023	367.833725
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	14	80.707383	363.788885
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	15	83.202903	361.876125
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	16	89.744643	354.230785
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	17	96.264003	346.512575
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	18	92.664603	337.81591
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	6	19	75.913023	332.79343
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	1	90.532843	353.639275
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	2	84.033893	361.238085
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	3	83.462393	361.904215
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	4	87.918153	365.015875
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	5	92.373923	368.127535
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	6	98.585763	368.716065
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	7	104.81868	369.283525
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	8	105.78708	349.090225
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	9	101.09528	347.871415
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	15	10	96.460273	346.707985
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	38	1	111.76238	348.816805
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	38	2	106.07419	349.103465
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	38	3	105.06225	369.289865
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	38	4	110.43883	369.491495
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	38	5	115.78336	369.661075
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	38	6	118.38089	368.130795
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	38	7	121.03884	366.542325
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	38	8	117.43249	348.574525
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	1	94.634453	335.75731
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	2	93.011433	337.86362
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	3	96.495163	346.462265
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	4	101.28693	347.708355
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	5	106.02409	348.892305
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	6	111.32766	348.665525
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	7	117.80607	348.270768
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	8	121.32857	345.086615
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	9	125.35421	341.625595
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	10	125.5567	341.426655
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	11	124.49204	339.04454
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	12	123.42012	336.65074
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	13	110.15392	335.23654
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	24	14	96.590693	333.79399
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	1	121.67909	345.067585
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	2	117.66393	348.685865
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	3	119.50158	357.659345
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	4	121.29685	366.484145
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	5	121.61583	366.893355
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	6	125.19133	371.370955
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	7	128.44785	375.439355
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	8	132.82333	378.786695
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	9	137.19881	382.134027
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	10	140.25347	382.898596
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	11	143.40431	383.626256
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	12	143.96428	381.447528
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	13	144.42807	379.305705
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	14	143.23667	374.894635
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	15	140.79551	366.179845
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	16	139.54576	361.876125
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	17	138.06588	353.138275
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	18	136.5384	344.176645
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	19	131.77764	342.922945
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	20	126.40055	341.745515
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	50	21	125.73662	341.597995
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	1	136.45442	325.76512
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	2	125.93422	332.729
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	3	124.77218	334.63911
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	4	123.69096	336.73625
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	5	125.89075	341.437205
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	6	131.30097	342.622925
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	7	136.58077	343.772205
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	8	141.5726	341.741985
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	9	146.56443	339.71177
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	10	149.87378	334.95804
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	11	153.18312	330.2043
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	12	153.57717	325.26065
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	13	154.00763	320.05159
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	14	154.04403	319.7862
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	15	150.55279	319.28727
+Cortex.d	Cortex	Cortex	Cortex	Ground tissue	d	d	Cortex_d	58	16	147.01809	318.7948
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	1	141.62121	341.938775
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	2	136.70252	343.945555
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	3	136.89651	345.085895
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	4	138.41109	354.007715
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	5	139.74499	361.800795
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	6	144.09913	361.061775
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	7	148.43997	360.311135
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	8	152.53254	355.746585
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	9	156.92332	350.850035
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	10	157.22152	350.518035
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	11	151.92445	345.220425
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	73	12	146.58364	339.92741
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	76	1	150.04279	335.07778
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	76	2	146.76407	339.7924
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	76	3	152.0425	345.074945
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	76	4	157.44498	350.310135
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	76	5	165.42781	345.187345
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	76	6	167.38496	334.26173
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	76	7	160.40743	332.31063
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	76	8	153.40846	330.39259
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	1	158.20241	312.97721
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	2	154.22182	319.75337
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	3	153.80121	324.9475
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	4	153.40819	330.16979
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	5	160.5515	332.14711
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	6	167.66724	334.09629
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	7	171.40582	334.09929
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	8	179.31364	333.82241
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	9	183.48287	333.54281
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	10	186.88757	331.88585
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	11	190.29226	330.22888
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	12	191.67354	328.70039
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	13	193.05483	327.17189
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	14	193.50251	325.28082
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	15	193.9502	323.38975
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	16	193.01519	321.15797
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	17	192.08018	318.92619
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	18	189.481	318.12159
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	19	186.05585	317.06037
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	20	181.40436	314.38305
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	21	177.57883	311.96236
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	22	169.92778	309.10737
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	23	162.22987	306.22686
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	78	24	158.20241	312.9775
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	80	1	169.84036	287.1946
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	80	2	162.6245	291.13909
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	80	3	162.563	292.0344
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	80	4	162.29284	306.01324
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	80	5	177.4681	311.69098
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	80	6	181.71797	295.92926
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	80	7	177.16312	283.52535
+Atrichoblast.d	Atrichoblast	Atrichoblast	Atrichoblast	Epidermis	d	d	Atrichoblast_d	80	8	177.05624	283.2501
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	1	184.44739	257.67953
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	2	177.53536	258.9728
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	3	173.31858	259.84393
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	4	170.10906	260.11365
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	5	166.89953	260.38337
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	6	160.30614	263.68029
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	7	153.71532	266.99883
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	8	154.56809	274.10637
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	9	155.41829	281.19229
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	10	158.96488	286.08634
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	11	162.51147	290.98038
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	12	162.78534	290.81964
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	13	170.05325	286.8385
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	14	177.04729	283.01811
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	15	180.62334	279.68578
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	16	184.19939	276.35346
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	17	186.77788	271.63699
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	18	190.88038	262.57863
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	19	191.42929	261.00595
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	20	189.3445	259.14435
+Trichoblast.d	Trichoblast	Trichoblast	Trichoblast	Epidermis	d	d	Trichoblast_d	79	21	187.20118	257.27008
