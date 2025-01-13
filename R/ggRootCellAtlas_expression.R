@@ -26,6 +26,7 @@
 #' @import ggplot2
 #' @import patchwork
 #' @importFrom dplyr tibble
+#' @importFrom stats setNames
 #' @import ggPlantmap
 #'
 #' @export
@@ -35,19 +36,13 @@
 
 ggRootCellAtlas_expression <- function(avg_exp,Gene,c1=NA,c2=NA, Annotation="Atlas") {
 
-  # # library(here)
-  # # # Set working directory
-  # # setwd(here())
-  # setwd("C:/Work Folder/R/integrated_7_in_1_2022_09/ggPlant_map_for_RootCellAtlas")
-
-  # Load data
-  # ggPm.At.longroot.longitudinal <- dplyr::tibble(read.table("data/ggPm.At.longroot.longitudinal.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.m1 <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.m1.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.m2 <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.m2.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.t <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.t.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.e1 <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.e1.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.e2 <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.e2.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.d <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.d.txt", sep = "\t", header = T))
+  load("data/ggPm.At.longroot.longitudinal.rda")
+  load("data/ggPm.At.root.crosssection.m1.rda")
+  load("data/ggPm.At.root.crosssection.m2.rda")
+  load("data/ggPm.At.root.crosssection.t.rda")
+  load("data/ggPm.At.root.crosssection.e1.rda")
+  load("data/ggPm.At.root.crosssection.e2.rda")
+  load("data/ggPm.At.root.crosssection.d.rda")
 
   # Extract Gene expression
   a<-as.data.frame(avg_exp)

@@ -25,6 +25,7 @@
 #' @import ggplot2
 #' @import patchwork
 #' @importFrom dplyr tibble
+#' @importFrom stats setNames
 #' @import ggPlantmap
 #'
 #' @export
@@ -33,23 +34,13 @@
 
 ggRootCellAtlas_annotation <- function(Group_name) {
 
-
-  # Load data
-  # ggPm.At.longroot.longitudinal <- dplyr::tibble(read.table("data/ggPm.At.longroot.longitudinal.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.m1 <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.m1.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.m2 <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.m2.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.t <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.t.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.e1 <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.e1.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.e2 <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.e2.txt", sep = "\t", header = T))
-  # ggPm.At.root.crosssection.d <- dplyr::tibble(read.table("data/ggPm.At.root.crosssection.d.txt", sep = "\t", header = T))
-  #
-  # generate_common_palette <- function(Group_name, ..., color_palette = scales::hue_pal() ) {
-  #   clean_data <- lapply(list(...), function(data) data[!is.na(data[,Group_name]), ])
-  #   unique_groups <- unique(unlist(lapply(clean_data, function(data) unique(data[,Group_name]))))
-  #   n_groups <- length(unique_groups)
-  #   color_palette <- color_palette(n_groups)
-  #   return(setNames(color_palette, unique_groups))
-  # }
+  load("data/ggPm.At.longroot.longitudinal.rda")
+  load("data/ggPm.At.root.crosssection.m1.rda")
+  load("data/ggPm.At.root.crosssection.m2.rda")
+  load("data/ggPm.At.root.crosssection.t.rda")
+  load("data/ggPm.At.root.crosssection.e1.rda")
+  load("data/ggPm.At.root.crosssection.e2.rda")
+  load("data/ggPm.At.root.crosssection.d.rda")
 
   # Generate color palette
   palette <- generate_common_palette(Group_name,
@@ -77,6 +68,7 @@ ggRootCellAtlas_annotation <- function(Group_name) {
     scale_fill_manual(values = palette, na.value = "black", name = Group_name)
   p7 <- ggPlantmap.plot(data = ggPm.At.root.crosssection.d, eval(parse(text = Group_name)),show.legend = FALSE) +
     scale_fill_manual(values = palette, na.value = "black", name = Group_name)
+
   legend_data <- data.frame(
     x = rep(1, times = nrow(as.data.frame(palette))),
     y = rep(1, times = nrow(as.data.frame(palette))),

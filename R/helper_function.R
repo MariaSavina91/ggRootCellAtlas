@@ -8,6 +8,7 @@
 #' @return A named vector of colors.
 #' @import scales
 #' @importFrom dplyr filter
+#' @importFrom stats setNames
 #' @export
 
 generate_common_palette <- function(Group_name, ..., color_palette = scales::hue_pal()) {
