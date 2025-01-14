@@ -1,0 +1,23 @@
+---
+title: "to-do list"
+author: "Victoria Mironova"
+date: "2025-01-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Ideas to improve
+
+### 001 Data folder
+At the moment you need to manually save data folder from the package to your folder, so that the functions works. Needs to be improved.
+
+### 002 Signal saturation
+
+If the value is below or abov the thersholds one sets, than the cells turned black (signal is not detected), although it can be set to the maximal/minimal value.
+
+### 003 Scales
+
+There should be an option for different scales. Different colors, but also for divergent scales, like with PCA functions
