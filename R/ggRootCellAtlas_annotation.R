@@ -34,13 +34,13 @@
 
 ggRootCellAtlas_annotation <- function(Group_name) {
 
-  # load("data/ggPm.At.longroot.longitudinal.rda")
-  # load("data/ggPm.At.root.crosssection.m1.rda")
-  # load("data/ggPm.At.root.crosssection.m2.rda")
-  # load("data/ggPm.At.root.crosssection.t.rda")
-  # load("data/ggPm.At.root.crosssection.e1.rda")
-  # load("data/ggPm.At.root.crosssection.e2.rda")
-  # load("data/ggPm.At.root.crosssection.d.rda")
+  load("data/ggPm.At.longroot.longitudinal.rda")
+  load("data/ggPm.At.root.crosssection.m1.rda")
+  load("data/ggPm.At.root.crosssection.m2.rda")
+  load("data/ggPm.At.root.crosssection.t.rda")
+  load("data/ggPm.At.root.crosssection.e1.rda")
+  load("data/ggPm.At.root.crosssection.e2.rda")
+  load("data/ggPm.At.root.crosssection.d.rda")
 
   # Generate color palette
   palette <- generate_common_palette(Group_name,
