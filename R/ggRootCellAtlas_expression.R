@@ -36,13 +36,22 @@
 
 ggRootCellAtlas_expression <- function(avg_exp,Gene,c1=NA,c2=NA, Annotation="Atlas") {
 
-  load("data/ggPm.At.longroot.longitudinal.rda")
-  load("data/ggPm.At.root.crosssection.m1.rda")
-  load("data/ggPm.At.root.crosssection.m2.rda")
-  load("data/ggPm.At.root.crosssection.t.rda")
-  load("data/ggPm.At.root.crosssection.e1.rda")
-  load("data/ggPm.At.root.crosssection.e2.rda")
-  load("data/ggPm.At.root.crosssection.d.rda")
+  # load("data/ggPm.At.longroot.longitudinal.rda")
+  # load("data/ggPm.At.root.crosssection.m1.rda")
+  # load("data/ggPm.At.root.crosssection.m2.rda")
+  # load("data/ggPm.At.root.crosssection.t.rda")
+  # load("data/ggPm.At.root.crosssection.e1.rda")
+  # load("data/ggPm.At.root.crosssection.e2.rda")
+  # load("data/ggPm.At.root.crosssection.d.rda")
+
+  load(system.file("data", "ggPm.At.longroot.longitudinal.rda", package = "ggRootCellAtlas"))
+  load(system.file("data", "ggPm.At.root.crosssection.m1.rda", package = "ggRootCellAtlas"))
+  load(system.file("data", "ggPm.At.root.crosssection.m2.rda", package = "ggRootCellAtlas"))
+  load(system.file("data", "ggPm.At.root.crosssection.t.rda", package = "ggRootCellAtlas"))
+  load(system.file("data", "ggPm.At.root.crosssection.e1.rda", package = "ggRootCellAtlas"))
+  load(system.file("data", "ggPm.At.root.crosssection.e2.rda", package = "ggRootCellAtlas"))
+  load(system.file("data", "ggPm.At.root.crosssection.de.rda", package = "ggRootCellAtlas"))
+
 
   # Extract Gene expression
   a<-as.data.frame(avg_exp)
