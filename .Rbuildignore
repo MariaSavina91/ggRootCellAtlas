@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.Rhistory$
+^LICENSE\.md$
+^README\.Rmd$
+^data_raw$
+^gg\.Pm\.files\.preparation$
+^to-do-list\.(Rmd|html)$
+^review$

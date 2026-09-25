@@ -9,37 +9,70 @@ ggRootCellAtlas_expression(
   Gene,
   c1 = NA,
   c2 = NA,
-  Annotation = "Atlas"
+  Annotation = "Atlas",
+  colours = c("snow2", "yellow", "red3", "red4"),
+  midpoint = NULL,
+  na.colour = "grey30"
 )
 }
 \arguments{
-\item{avg_exp}{A data frame containing average gene expression data. Columns should represent
-different atlas regions, and rows should represent genes.}
+\item{avg_exp}{Average expression with genes in rows and groups in columns:
+a matrix, sparse matrix or data frame, or the list returned by
+\code{Seurat::AverageExpression()} (its first assay is used).}
 
-\item{Gene}{A string specifying the gene for which expression or other feature data should be visualized.}
+\item{Gene}{A string specifying the gene (row of \code{avg_exp}) to visualize.}
 
-\item{c1}{Numeric value specifying the minimum value for the color gradient. Defaults to 0.}
+\item{c1}{Numeric value specifying the minimum value for the color gradient. Defaults to 0,
+or with \code{midpoint}, to a range symmetric around the midpoint.}
 
 \item{c2}{Numeric value specifying the maximum value for the color gradient. Defaults to the
-maximum gene expression across all datasets.}
+maximum expression of \code{Gene} across all sections. Values outside \code{c1}..\code{c2}
+are drawn in the colour of the nearest limit.}
 
-\item{Annotation}{Character. Name of the column to annotate that corresponds to Idents of Seurat object.
-Defaults to the "Atlas" Idents}
+\item{Annotation}{Character. Name of the root map column that the columns of
+\code{avg_exp} correspond to (the Idents of the Seurat object). Defaults to \code{"Atlas"}.}
+
+\item{colours}{Colours of the gradient, from low to high. Defaults to
+snow2, yellow, red3, red4; with \code{midpoint}, to blue, white, red.}
+
+\item{midpoint}{Optional value at which a diverging scale is centred, e.g. 0
+for fold changes or PCA scores. The middle colour of \code{colours} is placed at
+this value. Needs at least three colours.}
+
+\item{na.colour}{Colour of cells without a value. Defaults to dark grey.}
 }
 \value{
-A \code{ggplot2} object representing the combined heatmaps, with each heatmap corresponding
-to a specific atlas dataset and a shared legend indicating the gene expression levels.
+A patchwork object combining the heatmaps, one per root section,
+with a shared legend.
 }
 \description{
 This function creates a series of heatmaps representing the expression of a specified gene
-or oother cell fiature across various root sections. It combines the heatmaps into a single composite
+or other cell feature across various root sections. It combines the heatmaps into a single composite
 visualization using a shared color gradient.
-}
-\section{Example usage}{
-Seurat.object<-SetIdent(Seurat.object,value = "AnnotationName")
-avg_exp <- AverageExpression(Seurat.object,assays = 'RNA',slot = 'data')
-ggRootCellAtlas_expression(avg_exp, "GeneID", 1, 10, "AnnotationName")
 
-ggRootCellAtlas_expression(avg_exp, Gene = "GeneID")
+Group names are matched to the root map annotation ignoring case and
+punctuation, so names altered by Seurat (e.g. \code{"Cortex-m1"}, \code{"Young.LRC"})
+still match \code{"Cortex_m1"} and \code{"Young LRC"}.
+}
+\examples{
+# Toy data: one value per "Atlas" group
+groups <- unique(unlist(lapply(root_maps(), `[[`, "Atlas")))
+groups <- groups[!is.na(groups)]
+avg_exp <- matrix(seq_along(groups), nrow = 1,
+                  dimnames = list("GeneID", groups))
+ggRootCellAtlas_expression(avg_exp, "GeneID")
+ggRootCellAtlas_expression(avg_exp, "GeneID", c1 = 10, c2 = 40)
+ggRootCellAtlas_expression(avg_exp, "GeneID", colours = c("white", "darkgreen"))
+
+# Diverging scale, e.g. for log2 fold changes
+lfc <- avg_exp - mean(avg_exp)
+ggRootCellAtlas_expression(lfc, "GeneID", midpoint = 0)
+
+\dontrun{
+# With a Seurat object
+Seurat.object <- SetIdent(Seurat.object, value = "Atlas")
+avg_exp <- AverageExpression(Seurat.object, assays = "RNA")
+ggRootCellAtlas_expression(avg_exp, "GeneID")
 }
 
+}

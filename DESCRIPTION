@@ -1,17 +1,35 @@
 Package: ggRootCellAtlas
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Title: Visualize the Arabidopsis Root Cell Atlas on Realistic Root Layouts
+Version: 0.3.0
+Authors@R: c(
+    person("Maria", "Savina", role = "aut"),
+    person("Victoria", "Mironova", , "victoria.mironova@ru.nl",
+           role = c("aut", "cre"))
+  )
+Description: Draws a longitudinal section and six cross-sections of the
+    Arabidopsis thaliana root, from the meristem to the differentiation zone,
+    as one composite figure. Cells can be coloured by cell type, tissue, zone
+    or section annotation, or by average gene expression per cell group, for
+    example from a single-cell atlas analysed with Seurat. Built on
+    'ggPlantmap' and 'ggplot2'.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
+Depends:
+    R (>= 4.1)
 Imports:
-    dplyr,
     ggPlantmap,
-    ggplot2,
+    ggplot2 (>= 3.4.0),
     patchwork,
-    scales
+    scales,
+    stats,
+    stringr,
+    utils
+Suggests:
+    dplyr,
+    Matrix,
+    testthat (>= 3.0.0)
+Remotes:
+    leonardojo/ggPlantmap
+Config/testthat/edition: 3

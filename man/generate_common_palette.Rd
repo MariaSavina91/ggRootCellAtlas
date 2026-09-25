@@ -11,11 +11,19 @@ generate_common_palette(Group_name, ..., color_palette = scales::hue_pal())
 
 \item{...}{Data frames to be included in the palette generation.}
 
-\item{color_palette}{Function. A color palette function (default is \code{scales::hue_pal}).}
+\item{color_palette}{A palette function taking the number of colours
+(default is \code{scales::hue_pal()}), or a character vector of colours:
+unnamed colours are assigned to the groups in order, named colours are
+matched to the group names.}
 }
 \value{
 A named vector of colors.
 }
 \description{
 Creates a consistent color palette for a given grouping variable across datasets.
+}
+\examples{
+generate_common_palette("TissueTypes", root_maps()[[1]])
+generate_common_palette("TissueTypes", root_maps()[[1]],
+                        color_palette = okabe_ito_pal())
 }
