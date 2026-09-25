@@ -1,0 +1,12 @@
+cluster_id,labeled_id,labeled_values
+Atrichoblast_m2,labeled_cross,2   5   6  15  29  37  48  73  75  76  80
+PPP_m2,labeled_cross,16  19  32  52  61  68  17  18  69  72  71
+Cortex_m2,labeled_cross,7   9  10  24  28  58  66  77
+Endodermis_m2,labeled_cross,11  12  22  57  14  35  70  74
+Metaxylem_m2,labeled_cross,38  43  45
+PCC_m2,labeled_cross,20  23  63  67
+PSE_m2,labeled_cross,21  64
+Procambium_m2,labeled_cross,27  40  46  60  41  55  33  34  39  31  26  49  51  53  65  56  30  59
+Protoxylem_m2,labeled_cross,36  47
+Trichoblast_m2,labeled_cross,3   4   8  13  50  62  78  79
+XPP_m2,labeled_cross,25  42  44  54

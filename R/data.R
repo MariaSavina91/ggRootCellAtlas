@@ -1,55 +1,32 @@
-#' ggPm.At.longroot.longitudinal
+#' Arabidopsis root maps
 #'
-#' Longitudinal section of Arabidopsis thaliana root
-#' @name ggPm.At.longroot.longitudinal
-#' @docType data
-#' @usage data(ggPm.At.longroot.longitudinal)
-NULL
-
-#' ggPm.At.root.crosssection.m1
+#' ggPlantmap maps of the *Arabidopsis thaliana* root: one longitudinal section
+#' and six cross-sections. Each row is one vertex of a cell polygon.
+#' Use [root_maps()] to get all seven as a list.
 #'
-#' Cross section of Arabidopsis thaliana root in the early meristem zone
-#' @name ggPm.At.root.crosssection.m1
-#' @docType data
+#' The cross-sections are `m1`/`m2` (early/late meristem), `t` (transition
+#' zone), `e1`/`e2` (early/late elongation zone) and `d` (differentiation zone).
+#'
+#' @format A data frame with columns:
+#' \describe{
+#'   \item{ROI.name}{Name of the cell (region of interest).}
+#'   \item{SubCellTypes, CellTypes, TissueSubTypes, TissueTypes}{Cell identity
+#'     at increasing levels of grouping.}
+#'   \item{Zones}{Developmental zone: `"m"`, `"t"`, `"e"`, `"d"`, `"Root cap"`
+#'     or `"SCN"` (stem cell niche).}
+#'   \item{Sections}{Section the cell belongs to, e.g. `"m1"` or `"e2"`.}
+#'   \item{Atlas, Atlas_reduced}{Cell type combined with section (`Atlas`) or
+#'     zone (`Atlas_reduced`), matching the single-cell atlas clusters.}
+#'   \item{ROI.id}{Polygon identifier.}
+#'   \item{point}{Order of the vertex within the polygon.}
+#'   \item{x, y}{Vertex coordinates.}
+#' }
+#' @aliases ggPm.At.longroot.longitudinal ggPm.At.root.crosssection.m1
+#'   ggPm.At.root.crosssection.m2 ggPm.At.root.crosssection.t
+#'   ggPm.At.root.crosssection.e1 ggPm.At.root.crosssection.e2
+#'   ggPm.At.root.crosssection.d
 #' @usage data(ggPm.At.root.crosssection.m1)
-NULL
-
-#' ggPm.At.root.crosssection.m2
-#'
-#' Cross section of Arabidopsis thaliana root in the late meristem zone
-#' @name ggPm.At.root.crosssection.m2
 #' @docType data
-#' @usage data(ggPm.At.root.crosssection.m2)
-NULL
-
-#' ggPm.At.root.crosssection.t
-#'
-#' Cross section of Arabidopsis thaliana root in the transition zone
-#' @name ggPm.At.root.crosssection.t
-#' @docType data
-#' @usage data(ggPm.At.root.crosssection.t)
-NULL
-
-#' ggPm.At.root.crosssection.e1
-#'
-#' Cross section of Arabidopsis thaliana root in the early elongation zone
-#' @name ggPm.At.root.crosssection.e1
-#' @docType data
-#' @usage data(ggPm.At.root.crosssection.e1)
-NULL
-
-#' ggPm.At.root.crosssection.e2
-#'
-#' Cross section of Arabidopsis thaliana root in the late elongation zone
-#' @name ggPm.At.root.crosssection.e2
-#' @docType data
-#' @usage data(ggPm.At.root.crosssection.e2)
-NULL
-
-#' ggPm.At.root.crosssection.d
-#'
-#' Cross section of Arabidopsis thaliana root in the differentiation zone
-#' @name ggPm.At.root.crosssection.d
-#' @docType data
-#' @usage data(ggPm.At.root.crosssection.d)
+#' @keywords datasets
+#' @name root_map_data
 NULL
