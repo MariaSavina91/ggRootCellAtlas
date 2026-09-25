@@ -14,6 +14,7 @@ Description: Draws a longitudinal section and six cross-sections of the
     'ggPlantmap' and 'ggplot2'.
 License: MIT + file LICENSE
 Encoding: UTF-8
+LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 Depends:
